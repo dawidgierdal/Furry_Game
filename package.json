@@ -1,12 +1,12 @@
 {
   "name": "todo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Furry Game",
   "main": "app.js",
   "scripts": {
-    "start": "./node_modules/.bin/webpack-dev-server --config webpack.config.js  --hot --inline",
+    "start": "webpack-dev-server --config webpack.config.js  --hot --inline",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "bundle": "./node_modules/.bin/webpack --config webpack.config.js"
+    "bundle": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -14,9 +14,6 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
   "homepage": "",
   "devDependencies": {
     "autoprefixer": "^7.1.6",
