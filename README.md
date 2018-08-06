@@ -10,7 +10,7 @@ Simple game of collecting coins.
 
 ### Page:
 
-[Live DEMO](https://dawidgierdal.github.io/Drum_Kits/)
+[Live DEMO](https://dawidgierdal.github.io/Furry_Game/)
 
 # Screenshoot
 ![Image](https://github.com/dawidgierdal/Furry_Game/blob/master/Screenshots/furry.PNG)
